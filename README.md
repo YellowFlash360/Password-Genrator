@@ -1,5 +1,6 @@
-#🔏 Password-Generator
-Generates a Password based on the user request . Password generates by choosing the Security-Level
+# 🔏 Password-Generator
+
+  Generates a Password based on the user request . Password generates by choosing the Security-Level
 
 
 A simple and intuitive password generator with a graphical user interface (GUI) built using Python's tkinter library. This tool allows users to generate secure, unique passwords by specifying the length and a security level.
