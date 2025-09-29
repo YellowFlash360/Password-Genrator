@@ -26,7 +26,7 @@ tkinter: Python's built-in GUI toolkit.
 random: Used for selecting characters to generate the password.
 
 
-# 🔐 Screenshots
+# 📸 Screenshots
   It has Three different levels of Generating Passwords . LOW , MEDIUM AND HIGH SECURE
   
 # INTERFACE OF THE PASSWORD GENERATOR APP 
